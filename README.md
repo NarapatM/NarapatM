@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Currently studying [Computer Engineering & Digital Technology](https://www.cp.eng.chula.ac.th/cedt) at Chulalongkorn University <br/>
 I'm a beginner in programming for about 5 months, so please be kind to me.<br/>
+But I'm eager to learn new skills. and ready to develop yourself from real work experience.
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🧠  Currently learning [Web Development](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=ST19MT121224) <br/>
