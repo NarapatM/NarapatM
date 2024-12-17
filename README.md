@@ -5,7 +5,7 @@ Currently studying [Computer Engineering & Digital Technology](https://www.cp.en
 I'm a beginner in programming for about 5 months, so please be kind to me.<br/>
 But I'm eager to learn new things and develop myself all the time.
 
-* 📄  This is my [Resume]() and [Portfolio]()
+* 📄  This is my [Resume](https://drive.google.com/file/d/18gt6aexsczI3mteZFhJAzuDlroxBrZaF/view?usp=drive_link) and [Portfolio]()
 * 🌍  I'm based in Bangkok, Thailand
 * 🧠  Currently learning [Web Development](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=ST19MT121224) <br/>
 
