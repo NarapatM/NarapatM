@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===============================================================================================================================
 
 Currently studying [Computer Engineering & Digital Technology](https://www.cp.eng.chula.ac.th/cedt) at Chulalongkorn University <br/>
-I'm a beginner in programming for about 6 months, so please be kind to me.<br/>
+I'm a beginner in programming, so please be kind to me.<br/>
 But I'm eager to learn new things and develop myself all the time.
 
 * 📄  This is my [Resume]() and [Portfolio]()
