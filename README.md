@@ -6,9 +6,9 @@ I'm a beginner in programming, so please be kind to me.<br/>
 But I'm eager to learn new things and develop myself all the time.
 
 * 📄  This is my [Resume]() and [Portfolio]()
-* 💻  [My Profile Web]()
+* 💻  [My Profile Web](https://narapatm.github.io/Resume-PortWeb1/)
 * 🌍  I'm based in Bangkok, Thailand
-* 🧠  Currently learning [Web Development](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=ST19MT121224) <br/>
+* 🧠  Currently an Intership at CP Axtra
 
 ![nisitchula](nisit-chula.svg)
 ![ChulaEngineer](chula-engineer.svg)
