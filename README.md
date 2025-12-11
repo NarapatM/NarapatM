@@ -2,13 +2,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===============================================================================================================================
 
 Currently studying [Computer Engineering & Digital Technology](https://www.cp.eng.chula.ac.th/cedt) at Chulalongkorn University <br/>
-I'm a beginner in programming, so please be kind to me.<br/>
-But I'm eager to learn new things and develop myself all the time.
+I'm eager to learn new things and develop myself all the time.
 
 * 📄  This is my [Resume]() and [Portfolio]()
 * 💻  [My Profile Web](https://narapatm.github.io/Resume-PortWeb1/)
 * 🌍  I'm based in Bangkok, Thailand
-* 🧠  Currently an Intership at CP Axtra
 
 ![nisitchula](nisit-chula.svg)
 ![ChulaEngineer](chula-engineer.svg)
